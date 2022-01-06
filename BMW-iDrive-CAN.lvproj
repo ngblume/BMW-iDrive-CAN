@@ -319,6 +319,10 @@
 			<Item Name="PCANBasic_eX.lvlib" Type="Library" URL="../PCANBasic/PCANBasic_eX.lvlib"/>
 			<Item Name="Report.html" Type="Document" URL="../PCANBasic/Report.html"/>
 		</Item>
+		<Item Name="SubVIs" Type="Folder">
+			<Item Name="ButtonState2Color.vi" Type="VI" URL="../SubVIs/ButtonState2Color.vi"/>
+			<Item Name="NumbOfFingers.vi" Type="VI" URL="../SubVIs/NumbOfFingers.vi"/>
+		</Item>
 		<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="PCANBasic.dll" Type="Document" URL="PCANBasic.dll">
